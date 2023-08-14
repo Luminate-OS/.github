@@ -1,13 +1,17 @@
-## Hi there 👋
+![LuminateOS Logo](./LuminateLogo.svg)
+<br>
+A new smartphone operating system based on Android 13
 
-<!--
+## Who we are
+We are a group of developers, designers and engineers developing [LuminateOS](https://luminateos.com). Our mission is to make a beautiful, yet, simple and lightweight smartphone operating system.
 
-**Here are some ideas to get you started:**
+## How to apply
+We are open to new developers who can contribute to LuminateOS. If you wish to apply, you can make a ticket and apply on our [Discord](http://discord.luminateos.com). Everyone who can contribute to our team are welcome!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-Coming soon...
+## Contact and more information
+[Website](https://luminateos.com) <br>
+contact@luminateos.com <br>
+[Discord](http://discord.luminateos.com) <br>
+Social media and more contact information can be found on our website!
+---
+Copyright © 2023 Luminate OS Contributors. All rights reserved
