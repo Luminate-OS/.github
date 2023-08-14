@@ -13,6 +13,5 @@ We are open to new developers who can contribute to LuminateOS. If you wish to a
 contact@luminateos.com <br>
 [Discord](http://discord.luminateos.com) <br>
 Social media and more contact information can be found on our website!
-
 ---
 Copyright © 2023 Luminate OS Contributors. All rights reserved
