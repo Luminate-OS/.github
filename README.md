@@ -11,7 +11,7 @@ We are open to new developers who can contribute to LuminateOS. If you wish to a
 ## Contact and more information
 [Website](https://luminateos.com) <br>
 contact@luminateos.com <br>
-[Discord](http://discord.luminateos.com). <br>
+[Discord](http://discord.luminateos.com) <br>
 Social media and more contact information can be found on our website!
 
 ---
