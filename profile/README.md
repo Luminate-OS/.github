@@ -1,4 +1,4 @@
-![LuminateOS Logo](./profile/LuminateLogo.svg)
+![LuminateOS Logo](/profile/LuminateLogo.svg)
 <br>
 A new smartphone operating system based on Android 13
 
