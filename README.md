@@ -3,10 +3,10 @@
 A new smartphone operating system based on Android 13
 
 ## Who we are
-We are a group of developers, designers and engineers developing [LuminateOS](https://luminateos.com). Our mission is to make a beautiful, yet, simple and lightweight smartphone operating system.
+We are a group of developers, designers and engineers developing [Luminate OS](https://luminateos.com). Our mission is to make a beautiful, yet, simple and lightweight smartphone operating system.
 
 ## How to apply
-We are open to new developers who can contribute to LuminateOS. If you wish to apply, you can make a ticket and apply on our [Discord](http://discord.luminateos.com). Everyone who can contribute to our team are welcome!
+We are open to new developers who can contribute to Luminate OS. If you wish to apply, you can make a ticket and apply on our [Discord](http://discord.luminateos.com). Everyone who can contribute to our team are welcome!
 
 ## Contact and more information
 [Website](https://luminateos.com) <br>
