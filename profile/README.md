@@ -33,4 +33,4 @@ For any inquiries or support, feel free to create a ticket on our Discord server
 ---
 
 Thank you for your interest in Luminate! We're excited to share a beautiful, smooth, and customizable operating system with you soon. Stay tuned and join us on this exciting journey! 🌍
-
+ 
