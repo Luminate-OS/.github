@@ -1,36 +1,104 @@
-![LuminateOS Logo](./LuminateLogo.svg)
-<br>
-# 🌟 Welcome to Luminate
+<p align="center">
+  <img src="https://i.imgur.com/uL3y9a2.png" alt="LuminateOS Logo" width="160"/>
+</p>
 
-Luminate is a sleek, smooth, and highly customizable smartphone operating system built on Android. Our goal is to offer a completely unique, consistent design and a good user experience with smooth animations, making us stand out from all the other Android roms.
+<h1 align="center">Luminate</h1>
+<p align="center"><i>We're reinventing your Android phone</i></p>
 
-> **Note:** Luminate is currently in development and has not yet been released. Stay tuned for updates! 🚀
+<p align="center">
+  <a href="https://dsc.gg/luminate"><strong>Join Discord</strong></a> •
+  <a href="https://www.tiktok.com/@luminateos">TikTok</a> •
+  <a href="#">YouTube</a> •
+  <a href="#">Instagram</a> •
+  <a href="#">X (Twitter)</a>
+</p>
 
-## ✨ Key Features
-- **Beautiful Design:** Experience a visually stunning interface crafted with attention to detail. Luminate is designed to be as beautiful as it is functional.
-- **Ultra Smooth Performance:** Enjoy a buttery-smooth user experience with seamless animations and fast, responsive navigation.
-- **Ultimate Customization:** Make your device truly yours with endless customization options
-- **Focused on Usability:** We prioritize an intuitive and user-friendly experience, making it easy for anyone to enjoy Luminate
-
-## 📆 Release Timeline
-We don't have an official release date yet, but you can join our Discord server to not miss any news.
-
-## 👥 Join the Community
-Get involved and stay connected with the Luminate community:
-
-- **Discord:** [Join our Discord Server](https://dsc.gg/luminate)
-- **TikTok:** Follow us on [TikTok](https://tiktok.com/@luminate)
-- **YouTube:** Subscribe to our [YouTube channel](https://youtube.com/@luminateos)
-- **Instagram:** Check out our [Instagram](https://instagram.com/luminateos)
-- **X:** Follow us on [X](https://x.com/luminateos)
-
-## 🛠️ Contributing
-If you would like to help develop or design Luminate, feel free to apply on our Discord server by creating a ticket!
-
-## 📩 Contact Us
-For any inquiries or support, feel free to create a ticket on our Discord server
+<br/>
 
 ---
 
-Thank you for your interest in Luminate! We're excited to share a beautiful, smooth, and customizable operating system with you soon. Stay tuned and join us on this exciting journey! 🌍
- 
+## 🚀 What is Luminate?
+
+**Luminate** is a **next-generation Android Launcher** — fast, beautiful, and customizable.  
+But it's more than just a launcher: it's the foundation for a growing ecosystem of **system apps** and a future **custom OS**.
+
+> ✨ **Launcher-first. Apps to support it. An OS in the making.**
+
+Luminate focuses on **smooth performance**, **unified design**, and **privacy-first principles** — with the goal of redefining the Android experience.
+
+---
+
+## 🎯 Core Focus
+
+| Priority           | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| 🔹 **Launcher**     | The heart of Luminate. Home, setup, explore, news, personalization.         |
+| 🔸 **System Apps**  | Lightweight in-house apps: Notes, Files, Browser and more.           |
+| ⚙ **Custom OS**     | A long-term vision — modular, minimal, and deeply optimized for Luminate.  |
+
+---
+
+## 🧩 Ecosystem Components
+
+| Project            | Status       | Summary                                 |
+|--------------------|--------------|-----------------------------------------|
+| **Luminate Launcher** | 🧪 In dev    | Modular, animated, fast and elegant     |
+| **Files App**         | 🧪 In dev    | Minimal file manager with built-in tools|
+| **Notes App**         | 🧪 In dev    | Local markdown-style note system        |
+| **Wave Browser**      | 🧪 In dev     | Lightweight web wrapper with WebView    |
+| **Desktop Installer** | ✅ Active    | C# app to install Luminate via ADB      |
+| **Backend (API)**     | ✅ Online    | Account + sync + verification service   |
+| **Lumi (Bot)**        | ✅ Running   | Discord bot for auth, logs, and keys    |
+
+---
+
+## ✨ Highlights
+
+- 🧠 **Launcher-First Mentality** — Every UX decision starts from the homescreen  
+- ⚡ **Ultra Smooth Animations** — Built with performance as a first-class feature  
+- 🎨 **Consistent Design Language** — Unified UI across all apps  
+- 🧱 **Modular Stack** — Launcher + optional app suite + backend  
+- 🔒 **Private & Offline-First** — No tracking, no ads, no cloud dependency
+
+---
+
+## 📆 Release Roadmap
+
+We are currently in **closed beta** with internal testers.  
+The public release will be announced exclusively via Discord and TikTok.
+
+> Want early access or to become a tester?  
+> 👉 [Join our Discord and open a ticket](https://dsc.gg/luminate)
+
+---
+
+## 🛠️ Contribute
+
+Luminate is **not open source**, but we selectively invite developers & designers to contribute.
+
+We're looking for people with skills in:
+
+- Android (Kotlin / Jetpack Compose)
+- UI/UX design (mobile-first, minimal)
+- Web (Astro / Tailwind / React)
+- Infrastructure (Node.js, auth APIs, ADB)
+
+Apply via ticket on our Discord if you're interested.
+
+---
+
+## 🔗 Social & Community
+
+<p align="center">
+  <a href="https://discord.gg/p92pr54A2X"><img src="https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
+  <a href="https://www.tiktok.com/@luminate"><img src="https://img.shields.io/badge/TikTok-@luminateos-black?logo=tiktok&style=for-the-badge" alt="TikTok"/></a>
+</p>
+
+All communication, updates, testing access, and applications go through Discord.
+
+---
+
+<p align="center">
+  <i>© 2025 Luminate Team — All rights reserved</i><br/>
+  <sub>Private Launcher Ecosystem • Not for redistribution • Internal Use Only</sub>
+</p>
