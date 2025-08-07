@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/uL3y9a2.png" alt="LuminateOS Logo" width="160"/>
 </p>
 
-<h1 align="center">LuminateOS</h1>
-<p align="center"><i>The future-ready Android Launcher — with its own ecosystem.</i></p>
+<h1 align="center">Luminate</h1>
+<p align="center"><i>We're reinventing your Android phone</i></p>
 
 <p align="center">
   <a href="https://dsc.gg/luminate"><strong>Join Discord</strong></a> •
@@ -19,7 +19,7 @@
 
 ## 🚀 What is Luminate?
 
-**Luminate** is a **next-generation Android Launcher** — fast, beautiful, and deeply customizable.  
+**Luminate** is a **next-generation Android Launcher** — fast, beautiful, and customizable.  
 But it's more than just a launcher: it's the foundation for a growing ecosystem of **system apps** and a future **custom OS**.
 
 > ✨ **Launcher-first. Apps to support it. An OS in the making.**
@@ -33,7 +33,7 @@ Luminate focuses on **smooth performance**, **unified design**, and **privacy-fi
 | Priority           | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | 🔹 **Launcher**     | The heart of Luminate. Home, setup, explore, news, personalization.         |
-| 🔸 **System Apps**  | Lightweight in-house apps: Notes, Files, Browser, Settings, and more.       |
+| 🔸 **System Apps**  | Lightweight in-house apps: Notes, Files, Browser and more.           |
 | ⚙ **Custom OS**     | A long-term vision — modular, minimal, and deeply optimized for Luminate.  |
 
 ---
@@ -42,10 +42,10 @@ Luminate focuses on **smooth performance**, **unified design**, and **privacy-fi
 
 | Project            | Status       | Summary                                 |
 |--------------------|--------------|-----------------------------------------|
-| **Luminate Launcher** | ✅ Active    | Modular, animated, fast and elegant     |
+| **Luminate Launcher** | 🧪 In dev    | Modular, animated, fast and elegant     |
 | **Files App**         | 🧪 In dev    | Minimal file manager with built-in tools|
 | **Notes App**         | 🧪 In dev    | Local markdown-style note system        |
-| **Wave Browser**      | 🔬 Early     | Lightweight web wrapper with WebView    |
+| **Wave Browser**      | 🧪 In dev     | Lightweight web wrapper with WebView    |
 | **Desktop Installer** | ✅ Active    | C# app to install Luminate via ADB      |
 | **Backend (API)**     | ✅ Online    | Account + sync + verification service   |
 | **Lumi (Bot)**        | ✅ Running   | Discord bot for auth, logs, and keys    |
@@ -90,8 +90,8 @@ Apply via ticket on our Discord if you're interested.
 ## 🔗 Social & Community
 
 <p align="center">
-  <a href="https://dsc.gg/luminate"><img src="https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
-  <a href="https://www.tiktok.com/@luminateos"><img src="https://img.shields.io/badge/TikTok-@luminateos-black?logo=tiktok&style=for-the-badge" alt="TikTok"/></a>
+  <a href="https://discord.gg/p92pr54A2X"><img src="https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
+  <a href="https://www.tiktok.com/@luminate"><img src="https://img.shields.io/badge/TikTok-@luminateos-black?logo=tiktok&style=for-the-badge" alt="TikTok"/></a>
 </p>
 
 All communication, updates, testing access, and applications go through Discord.
