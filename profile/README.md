@@ -67,9 +67,6 @@ Luminate focuses on **smooth performance**, **unified design**, and **privacy-fi
 We are currently in **closed beta** with internal testers.  
 The public release will be announced exclusively via Discord and TikTok.
 
-> Want early access or to become a tester?  
-> 👉 [Join our Discord and open a ticket](https://dsc.gg/luminate)
-
 ---
 
 ## 🛠️ Contribute
