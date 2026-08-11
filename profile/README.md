@@ -8,9 +8,8 @@
 <p align="center">
   <a href="https://dsc.gg/luminate"><strong>Join Discord</strong></a> •
   <a href="https://www.tiktok.com/@luminateos">TikTok</a> •
-  <a href="#">YouTube</a> •
-  <a href="#">Instagram</a> •
-  <a href="#">X (Twitter)</a>
+  <a href="https://www.youtube.com/@lumiapps">YouTube</a> •
+  <a href="https://instagram.com/getlumiapps">Instagram</a> •
 </p>
 
 <br/>
@@ -33,8 +32,8 @@ Luminate focuses on **smooth performance**, **unified design**, and **privacy-fi
 | Priority           | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | 🔹 **Launcher**     | The heart of Luminate. Home, setup, explore, news, personalization.         |
-| 🔸 **System Apps**  | Lightweight in-house apps: Notes, Files, Browser and more.           |
-| ⚙ **Custom OS**     | A long-term vision — modular, minimal, and deeply optimized for Luminate.  |
+| 🔸 **Filehero**  | Lightweight in-house apps: Notes, Files, Browser and more.           |
+| ⚙ **OS / Rom**     | A long-term vision — modular, minimal, and deeply optimized for Luminate.  |
 
 ---
 
